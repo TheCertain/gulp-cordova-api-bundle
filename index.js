@@ -4,7 +4,7 @@ module.exports = {
    create: require('gulp-cordova-create'),
    plugin: function() {
       var p = require('gulp-cordova-plugin');
-      p.remove = require('gulp-cordova-plugon-remove');
+      p.remove = require('gulp-cordova-plugin-remove');
       return p;
    }(),
    preference: require('gulp-cordova-preference'),
