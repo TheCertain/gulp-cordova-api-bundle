@@ -16,7 +16,7 @@
     "gulp-cordova-plugin-remove": "*",
     "gulp-cordova-preference": "*",
     "gulp-cordova-version": "*",
-    "gulp-cordova-xml": "*",
+    "gulp-cordova-xml": "*"
   },
   "repository": {
     "type": "git",
