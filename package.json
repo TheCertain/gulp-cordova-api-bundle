@@ -1,6 +1,6 @@
 {
   "name": "gulp-cordova-api-bundle",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Bundle of gulp-cordova-* functionality",
   "main": "index.js",
   "dependencies": {
@@ -11,7 +11,7 @@
     "gulp-cordova-build-ios": "latest",
     "gulp-cordova-create": "latest",
     "gulp-cordova-description": "latest",
-    "gulp-cordova-icon": "latest",
+    "gulp-cordova-icon": "https://github.com/TheCertain/gulp-cordova-icon.git",
     "gulp-cordova-plugin": "latest",
     "gulp-cordova-plugin-remove": "latest",
     "gulp-cordova-preference": "latest",
